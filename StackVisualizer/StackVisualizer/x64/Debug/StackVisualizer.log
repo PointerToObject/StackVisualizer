@@ -1,0 +1,3 @@
+﻿  Main.c
+C:\Users\aiden\OneDrive\Desktop\compiler\StackVisualizer\StackVisualizer\Main.c(16,16): warning C4133: 'function': incompatible types - from 'int *' to 'unsigned __int64 *'
+  StackVisualizer.vcxproj -> C:\Users\aiden\OneDrive\Desktop\compiler\StackVisualizer\x64\Debug\StackVisualizer.exe
